@@ -1,6 +1,7 @@
 # Yelp Camp
 
-MongoDB, Express, NodeJS and EJS stack application. Small version of yelp for campsites. Made during a udemy course, link in description.
+MongoDB, Express, NodeJS and EJS stack application. Small version of yelp for campsites.
+Course project of https://www.udemy.com/course/the-web-developer-bootcamp/
 
 ## Usage
 
